@@ -10,16 +10,16 @@
   <body>
     <div id="templatemo_container">
       <div id="templatemo_left_column">
-        <center><div id="templatemo_left_pic"></div></center>
+        <center>
+          <div id="templatemo_left_pic"></div>
+        </center>
         <ul class="glossymenu">
           <li><a href="#">Pagina Principal</a></li>
-          <li><a href="http://www.templatemo.com" target="_parent">Sobre la
-              Asociación</a></li>
-          <li><a href="http://www.templatemo.com" target="_parent">Estatutos</a></li>
+          <li><a href="http://www." target="_parent">Sobre la Asociación</a></li>
+          <li><a href="http://www." target="_parent">Estatutos</a></li>
           <li><a href="#">Servicios e instalaciones</a></li>
           <li><a href="#">Asociarse</a></li>
-          <li><a href="http://www.templatemo.com" target="_parent">Información
-              de contacto</a></li>
+          <li><a href="http://" target="_parent">Información de contacto</a></li>
         </ul>
         <div id="templatemo_about"><strong><u>About our website</u></strong><br />
           Nulla enim nibh, consectetuer sed, vestibulum elementum, sagittis nec,
@@ -39,7 +39,7 @@
       </div>
       <div id="templatemo_right_column">
         <div id="templatemo_header">
-          <div class="templatemo_title">Euskokanna</div>
+          <div class="templatemo_title">       Euskokanna</div>
           <div class="templatemo_slogan">Asociación  Cannábica sin ánimo de
             lucro - Errentería</div>
         </div>
@@ -90,8 +90,7 @@
         </div>
       </div>
     </div>
-    <div id="templatemo_copyright">Copyright © 2048 Your Company Name - <a href="http://www.iwebsitetemplate.com"
-        target="_parent">Website Templates</a> by <a href="http://www.templatemo.com/"
-        target="_parent">templatemo.com</a></div>
+    <div id="templatemo_copyright">Copyright © 2020 Euskokanna - Asociación Cannábica Errentería<br />
+      </div>
   </body>
 </html>
